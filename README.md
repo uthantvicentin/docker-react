@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-![Build Status](https://travis-ci.org/uthantvicentin/docker-react.svg?branch=master)](https://travis-ci.org/uthantvicentin/docker-react)
+
+[![Build Status](https://travis-ci.org/uthantvicentin/docker-react.svg?branch=master)](https://travis-ci.org/uthantvicentin/docker-react)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
